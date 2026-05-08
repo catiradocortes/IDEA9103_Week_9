@@ -4,7 +4,8 @@ let fit = {
   x: 0,
   y: 0,
   w: 0,
-  h: 0
+  h: 0,
+  new_property: 67
 };
 
 let segments = [];
