@@ -5,7 +5,7 @@ let fit = {
   y: 0,
   w: 0,
   h: 0,
-  new_property: 67
+  z: 0
 };
 
 let segments = [];
